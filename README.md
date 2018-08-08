@@ -1,4 +1,4 @@
-#hello  CBoard
+#  hello  CBoard
 #### An **open** BI Dashboard platform that supports **interactive** multi-dimensional report design and data analysis  
 Server side framework is Spring+MyBatis and front-end is based on AngularJS1 and Bootstrap. The whole architecture graphic is as below:   
 
